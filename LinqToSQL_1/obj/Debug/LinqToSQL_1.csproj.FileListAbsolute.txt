@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\bin\Debug\LinqToSQL_1.exe.config
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\bin\Debug\LinqToSQL_1.exe
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\bin\Debug\LinqToSQL_1.pdb
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\obj\Debug\LinqToSQL_1.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\obj\Debug\LinqToSQL_1.Form1.resources
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\obj\Debug\LinqToSQL_1.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\obj\Debug\LinqToSQL_1.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\obj\Debug\LinqToSQL_1.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\obj\Debug\LinqToSQL_1.exe
+C:\Users\Section2\source\repos\NT_LinqToSQL_1\LinqToSQL_1\obj\Debug\LinqToSQL_1.pdb
